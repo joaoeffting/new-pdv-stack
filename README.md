@@ -4,7 +4,7 @@ List of stacks to use on the new pdv (study case)
 
 ## stack
 
-```
+
 * Electron
   * https://github.com/chentsulin/electron-react-boilerplate
   
@@ -13,4 +13,4 @@ List of stacks to use on the new pdv (study case)
 * Storybook
   * https://github.com/storybooks/storybook
 
-```
+
