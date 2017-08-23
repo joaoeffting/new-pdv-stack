@@ -14,3 +14,11 @@ List of stacks to use on the new pdv (study case)
   * https://github.com/storybooks/storybook
 
 
+* Componentes:
+  * Botôes:
+    * CPF
+    * CNPJ
+    * E-mail
+    * Valor
+    * Data
+
